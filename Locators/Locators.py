@@ -1,0 +1,16 @@
+class testLocators:
+
+    name_username = "j_username"
+    name_password = "j_password"
+    xpath_languajeMenu = "//td/table/tbody/tr/td/table/tbody/tr/td[3]/div/input"
+    xpath_languajeEnglish = "//tr[15]/td/div" 
+    xpath_languajeSpanish = "//div/table/tbody/tr[5]/td/div"
+    xpath_loginButtonEnglish = "//*[contains(text(),'Sign In')]" 
+    xpath_loginButtonSpanish = "//*[contains(text(),'Iniciar sesión')]"
+    xpath_textInicio = "/html/body/div[1]/div/div/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[2]/div[2]/div[2]/div/div[1]/div[2]/div/div/div[2]/div[1]/div/div[2]/div/div[2]/div/div/div/div[2]/div/div/div[2]/div[1]/div/div[2]/div/div/div[1]/div[1]/div/div[2]/span"
+    xpath_filterTree = "/html/body/div[1]/div/div/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[2]/div[2]/div[2]/div/div[1]/div[2]/div/div/div[2]/div[1]/div/div[2]/div/div[1]/div[1]/div/div/div[2]/div/div[1]/div[2]/div/div[1]/div/div/div/div[2]/div/div[2]/div/span/input"
+    xpath_typeOfSearch = "/html/body/div[1]/div/div/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[2]/div[2]/div[2]/div/div[1]/div[2]/div/div/div[2]/div[1]/div/div[2]/div/div[2]/div/div/div/div[2]/div/div/div[2]/div[2]/div/div[2]/div[1]/div/div[2]/div/div[1]/div/div/div[1]/div/div/div/div/div[2]/span/input"
+    xpath_typeOfSearchButton = "/html/body/div[1]/div/div/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[2]/div[2]/div[2]/div/div[1]/div[2]/div/div/div[2]/div[1]/div/div[2]/div/div[2]/div/div/div/div[2]/div/div/div[2]/div[2]/div/div[2]/div[1]/div/div[2]/div/div[1]/div/div/div[1]/div/div/div/div/div[2]/button[1]"
+    xpath_Warehouse_400 = "/html/body/div[1]/div/div/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[2]/div[2]/div[2]/div/div[1]/div[2]/div/div/div[2]/div[1]/div/div[2]/div/div[2]/div/div/div/div[2]/div/div/div[2]/div[2]/div/div[2]/div[1]/div/div[2]/div/div[2]/div/div/div[2]/div[2]/div[3]/div[2]/div[1]/div[2]/div/div[2]/table/tbody[1]/tr[7]/td[3]/div/span"
+    xpath_collapseButton = "/html/body/div[1]/div/div/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[2]/div[2]/div[2]/div/div[1]/div[2]/div/div/div[2]/div[1]/div/div[2]/div/div[2]/div/div/div/div[2]/div/div/div[2]/div[2]/div/div[2]/div[1]/div/div[1]/div[1]/div[1]/div/div/div[1]/button[2]"
+    xpath_oversellingAmountTextbox =  "/html/body/div[1]/div/div/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[2]/div[2]/div[2]/div/div[1]/div[2]/div/div/div[2]/div[1]/div/div[2]/div/div[2]/div/div/div/div[2]/div/div/div[2]/div[2]/div/div[2]/div[1]/div/div[2]/div/div[2]/div/div/div[2]/div/div[4]/div/div/div/div/div[2]/div/div[1]/div[1]/div/div[2]/div[2]/table[2]/tbody/tr/td/table/tbody/tr/td[1]/div[2]/input"
